@@ -12,3 +12,14 @@ Tampilan ScreenShoot Program :
 Tampilan Hasil Running :
 
 ![Labpy_3  C__Users_Daul_PycharmProjects_Labpy_3  -  _mp3_2 py - PyCharm 06_01_2020 10_44_33](https://user-images.githubusercontent.com/53391777/71793935-b7203380-3071-11ea-85e9-4fca716cf6e1.png)
+
+Tampilan Coding :
+
+
+![_lili - Notepad 06_01_2020 10_51_55 (2)](https://user-images.githubusercontent.com/53391777/71794315-893bee80-3073-11ea-9e3a-5f77f9b8ab33.png)
+
+
+
+
+
+
